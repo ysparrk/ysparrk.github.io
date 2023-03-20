@@ -8,6 +8,6 @@
   font-style: bold;
 }
 
-#down_size {
-
+.gray {
+  color: rgba(22, 21, 21, 0.686);
 }
